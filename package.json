@@ -1,5 +1,5 @@
 {
-  "name": "playwright-demo-master",
+  "name": "playwright-tests-main",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
@@ -12,6 +12,6 @@
     "@types/node": "^22.10.10"
   },
   "dependencies": {
-    "playwright-demo-master": "file:"
+    "playwright-tests-main": "file:"
   }
 }
