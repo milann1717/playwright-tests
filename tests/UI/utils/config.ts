@@ -1,0 +1,1 @@
+export let EBAY_URL=`https://ebay.com`;
